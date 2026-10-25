@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "html2.link Publish",
+    "description": "Publish the newest HTML or static site from the current project or conversation to html2.link, with a sign-in page that obtains the token."
+  },
+  "page": {
+    "title": "html2.link Publish",
+    "subtitle": "Sign in, then publish the newest page from this project or conversation as a shareable link",
+    "tabWechat": "WeChat QR sign-in",
+    "tabEmail": "Email & password",
+    "tabManual": "I already have a token",
+    "qrHint": "Scan the QR code with WeChat to sign in",
+    "qrCountdown": "{n}s left",
+    "qrExpired": "QR code expired, click to refresh",
+    "qrLoading": "Fetching QR code…",
+    "qrUnsupported": "WeChat sign-in API unavailable: this build has no endpoint for html2.link's QR login. Use the token tab, or sign in at html2.link/login and copy the AI token from /ai-publish.",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "submitLogin": "Sign in and get token",
+    "emailUnsupported": "Email sign-in API unavailable: this build has no endpoint for html2.link's email login. Use the token tab.",
+    "manualPlaceholder": "Paste an AI token starting with htl_",
+    "save": "Save token",
+    "clear": "Sign out",
+    "saved": "Signed in",
+    "unsaved": "Not signed in",
+    "account": "Account",
+    "credits": "Credits",
+    "publish": "Publish newest page",
+    "publishing": "Publishing…",
+    "needToken": "Sign in or paste a token first",
+    "contact": "Contact support",
+    "sourceDoc": "Publishing docs"
+  }
+}

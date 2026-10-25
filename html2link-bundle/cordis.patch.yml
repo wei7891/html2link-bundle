@@ -1,0 +1,4 @@
+- insert:
+    - id: html2link
+      name: '@local/html2link-bundle'
+      config: {}
